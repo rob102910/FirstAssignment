@@ -1,6 +1,6 @@
 # FirstAssignment
 <html>
   <body>
-    <imag scr="IMG_4396.JPG" />
+    <imag scr="downloads/IMG_4396.JPG" />
   </body>
     </html>
